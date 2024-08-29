@@ -1,3 +1,3 @@
-# iProgramación
-Introducción a la Programación
+# Introducción a la Programación
+
 Software requerido para la materia.
